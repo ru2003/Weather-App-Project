@@ -58,7 +58,7 @@ You can view the live version of this project here:
 
 📸 Demo Video
 
-🎥 Project Demo: 
+🎥 Project Demo: https://drive.google.com/file/d/1bj0T_IiN3gqpe2AG4hCQ11u_Lt4wNDts/view?usp=drive_link
 
 🧑‍💻 Author
 
