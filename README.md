@@ -60,3 +60,18 @@ src/
 │
 ├── Weather.css
 └── App.jsx
+
+
+🌐 Deployment
+
+You can view the live version of this project here:
+🔗 Live App: https://pygr97-5174.csb.app/
+
+📸 Demo Video
+
+🎥 Project Demo: 
+
+🧑‍💻 Author
+
+Developed by: Ruchita Chaudhari
+Tech Stack: React, HTML, CSS, JavaScript, Open-Meteo API
